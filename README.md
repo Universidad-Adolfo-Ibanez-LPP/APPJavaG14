@@ -2,8 +2,8 @@
 
 Integrantes:
 
-Agustin Guerrero
-Valentina Gonzalez
-Julio Gordo
-Vicente ladevig
-Martin Luna
+Agustin Guerrero;
+Valentina Gonzalez;
+Julio Gordo;
+Vicente ladevig;
+Martin Luna;
